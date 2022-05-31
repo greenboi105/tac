@@ -1,4 +1,8 @@
 #define _DEFAULT_SOURCE
+
+// basic header files for necessary functions 
+// memory allocation, input and output, string functions and error checking
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
